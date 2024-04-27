@@ -453,7 +453,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "corne-cherry.kicad_pro",
+    "filename": "corne-cherry-left.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -514,7 +514,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "corne.net",
-      "plot": "",
+      "plot": "order/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../../../../../Desktop/corne-pcb.STEP",
